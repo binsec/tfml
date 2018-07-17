@@ -1,0 +1,2 @@
+true: annot, bin_annot, warn(A-4-33), use_menhir
+true: package(ptmap,ptset,zarith)
